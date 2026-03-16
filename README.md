@@ -1,4 +1,7 @@
-## Hi there 👋
+**💫About Me!**
+
+**Hi! I'm Surendra Rana 👋**
+
 
 <!--
 **surendrarana4u/surendrarana4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
