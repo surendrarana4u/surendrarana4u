@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Surendra+Rana;B.Tech+CSE+Student;Full+Stack+%7C+Blockchain+%7C+Web3+Explorer;Future+Software+Development+Engineer" />
 </p>
-# 👨‍💻 About Me
 
-🎓 I am **Surendra Rana**, a B.Tech CSE student with a deep interest in technology and programming.
+# 👨‍💻 About Me
+**Hi! I'm Surendra Rana**
+------
+🎓A B.Tech CSE student with a deep interest in technology and programming.
 🧠 Exploring **Full Stack Development, Blockchain, Web3, and Logic Building.**
 💻 Strong foundation in **Java, MongoDB, and SQL.**
 🚀 Focused on becoming a **Software Development Engineer** and building tech that is **practical, ethical, and impactful.**
